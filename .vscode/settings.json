@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": false,
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+        "editor.formatOnSave": true,
+        "git.ignoreLimitWarning": true
+        
+    
+}
